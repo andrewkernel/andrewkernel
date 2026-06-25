@@ -20,7 +20,7 @@ Computer science student at the University of Texas at Arlington building full-s
 Open-source pull request record:
 
 - 1 merged third-party PR.
-- 9 open and mergeable third-party PRs.
+- 10 open and mergeable third-party PRs.
 - 1 closed third-party PR with local verification.
 
 Recent PRs:
@@ -35,6 +35,7 @@ Recent PRs:
 - [Open: htmldate#192](https://github.com/adbar/htmldate/pull/192): Cleaned documentation wording and typo issues.
 - [Open: rtk#2601](https://github.com/rtk-ai/rtk/pull/2601): Added pytest parser handling for error summaries with regression coverage.
 - [Open: Termstory#164](https://github.com/bitflicker64/Termstory/pull/164): Fixed nested AI provider config lookup so configurable Ollama API base URLs work in CLI AI paths.
+- [Open: Termstory#166](https://github.com/bitflicker64/Termstory/pull/166): Narrowed timestamp parser exception handling with regression coverage.
 - [Closed: py-vetlog-buddy#181](https://github.com/josdem/py-vetlog-buddy/pull/181): Moved inactive/deceased pet filtering into pending deworming selection with focused service coverage.
 
 ## Tech
