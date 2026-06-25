@@ -1,6 +1,25 @@
-# Andrew Dang
+<p align="center">
+  <img src="assets/profile-banner.png" alt="Andrew Dang developer workspace banner" width="100%" />
+</p>
 
-Computer science student at the University of Texas at Arlington building full-stack products, developer tools, and automation-heavy systems.
+<h1 align="center">Andrew Dang</h1>
+
+<p align="center">
+  Computer science student at the University of Texas at Arlington building full-stack products, developer tools, automation-heavy systems, and practical open-source fixes.
+</p>
+
+<p align="center">
+  <a href="https://www.andrewanhdang.dev/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/andrewdanguta/">LinkedIn</a> ·
+  <a href="https://github.com/andrewkernel/peak">Peak</a> ·
+  <a href="https://github.com/andrewkernel/network-optimizations">Network Optimization Agent</a>
+</p>
+
+<p align="center">
+  <img alt="Open source merged PRs" src="https://img.shields.io/badge/open%20source-3%20merged%20PRs-2ea44f?style=flat-square" />
+  <img alt="Open source mergeable PRs" src="https://img.shields.io/badge/open%20source-9%20mergeable%20PRs-0969da?style=flat-square" />
+  <img alt="Focus" src="https://img.shields.io/badge/focus-full--stack%20%7C%20automation%20%7C%20developer%20tools-24292f?style=flat-square" />
+</p>
 
 ## Current Focus
 
