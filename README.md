@@ -17,7 +17,7 @@ Computer science student at the University of Texas at Arlington building full-s
 
 ## Open Source
 
-Recent third-party pull requests:
+10 recent third-party pull requests:
 
 - [BeforeYouSign#1](https://github.com/ChimdumebiNebolisa/BeforeYouSign/pull/1): Added QA smoke scripts and a GitHub Actions syntax gate.
 - [hiring-agent#253](https://github.com/interviewstreet/hiring-agent/pull/253): Hardened GitHub rate-limit header parsing.
@@ -28,6 +28,7 @@ Recent third-party pull requests:
 - [cheroot#830](https://github.com/cherrypy/cheroot/pull/830): Fixed HTTP server error logging in an unservicable-connection path with regression coverage.
 - [htmldate#192](https://github.com/adbar/htmldate/pull/192): Cleaned documentation wording and typo issues.
 - [rtk#2601](https://github.com/rtk-ai/rtk/pull/2601): Added pytest parser handling for error summaries with regression coverage.
+- [py-vetlog-buddy#181](https://github.com/josdem/py-vetlog-buddy/pull/181): Moved inactive/deceased pet filtering into pending deworming selection with focused service coverage.
 
 ## Tech
 
