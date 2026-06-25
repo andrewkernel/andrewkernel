@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.andrewanhdang.dev/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/andrewdanguta/">LinkedIn</a> ·
-  <a href="https://github.com/andrewkernel/peak">Peak</a> ·
+  <a href="https://www.andrewanhdang.dev/">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/andrewdanguta/">LinkedIn</a> |
+  <a href="https://github.com/andrewkernel/peak">Peak</a> |
   <a href="https://github.com/andrewkernel/network-optimizations">Network Optimization Agent</a>
 </p>
 
@@ -20,6 +20,15 @@
   <img alt="Open source mergeable PRs" src="https://img.shields.io/badge/open%20source-9%20mergeable%20PRs-0969da?style=flat-square" />
   <img alt="Focus" src="https://img.shields.io/badge/focus-full--stack%20%7C%20automation%20%7C%20developer%20tools-24292f?style=flat-square" />
 </p>
+
+## Snapshot
+
+| Area | Proof |
+| --- | --- |
+| Full-stack products | Next.js, React, TypeScript, Python, Flask, FastAPI, PostgreSQL, Supabase |
+| Developer tools | Electron desktop tooling, PowerShell automation, diagnostics, CI, parser and export fixes |
+| Open source | 3 merged third-party PRs, 9 open mergeable PRs, regression tests and CI-focused fixes |
+| Systems mindset | Network diagnostics, DNS/TCP inspection, iPerf3 testing, risk-scored remediation plans |
 
 ## Current Focus
 
@@ -60,7 +69,13 @@ Recent PRs:
 
 ## Tech
 
-Python, Java, TypeScript, JavaScript, C++, C#, SQL, Rust, Next.js, React, Node.js, FastAPI, Flask, Django, Spring Boot, Tailwind CSS, PostgreSQL, MySQL, MongoDB, Redis, Firebase, DynamoDB, Supabase, SQLite, Git, Linux, Electron, PowerShell, REST APIs, GraphQL APIs, WebSockets, Kafka, and RabbitMQ.
+**Languages:** Python, Java, TypeScript, JavaScript, C++, C#, SQL, Rust
+
+**Frontend and backend:** Next.js, React, Node.js, FastAPI, Flask, Django, Spring Boot, Tailwind CSS
+
+**Data and infrastructure:** PostgreSQL, MySQL, MongoDB, Redis, Firebase, DynamoDB, Supabase, SQLite, Git, Linux
+
+**Systems and APIs:** Electron, PowerShell, REST APIs, GraphQL APIs, WebSockets, Kafka, RabbitMQ, Windows Registry
 
 ## Links
 
