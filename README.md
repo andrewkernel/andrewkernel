@@ -17,18 +17,24 @@ Computer science student at the University of Texas at Arlington building full-s
 
 ## Open Source
 
-10 recent third-party pull requests:
+Open-source pull request record:
 
-- [BeforeYouSign#1](https://github.com/ChimdumebiNebolisa/BeforeYouSign/pull/1): Added QA smoke scripts and a GitHub Actions syntax gate.
-- [hiring-agent#253](https://github.com/interviewstreet/hiring-agent/pull/253): Hardened GitHub rate-limit header parsing.
-- [hiring-agent#254](https://github.com/interviewstreet/hiring-agent/pull/254): Preserved GitHub fallback commit counts.
-- [hiring-agent#255](https://github.com/interviewstreet/hiring-agent/pull/255): Fixed nested GitHub profile CSV export.
-- [hiring-agent#256](https://github.com/interviewstreet/hiring-agent/pull/256): Added Unicode date-range parsing coverage.
-- [hiring-agent#257](https://github.com/interviewstreet/hiring-agent/pull/257): Preserved project URL fallbacks.
-- [cheroot#830](https://github.com/cherrypy/cheroot/pull/830): Fixed HTTP server error logging in an unservicable-connection path with regression coverage.
-- [htmldate#192](https://github.com/adbar/htmldate/pull/192): Cleaned documentation wording and typo issues.
-- [rtk#2601](https://github.com/rtk-ai/rtk/pull/2601): Added pytest parser handling for error summaries with regression coverage.
-- [py-vetlog-buddy#181](https://github.com/josdem/py-vetlog-buddy/pull/181): Moved inactive/deceased pet filtering into pending deworming selection with focused service coverage.
+- 1 merged third-party PR.
+- 8 open and mergeable third-party PRs.
+- 1 closed third-party PR with local verification.
+
+Recent PRs:
+
+- [Merged: BeforeYouSign#1](https://github.com/ChimdumebiNebolisa/BeforeYouSign/pull/1): Added QA smoke scripts and a GitHub Actions syntax gate.
+- [Open: hiring-agent#253](https://github.com/interviewstreet/hiring-agent/pull/253): Hardened GitHub rate-limit header parsing.
+- [Open: hiring-agent#254](https://github.com/interviewstreet/hiring-agent/pull/254): Preserved GitHub fallback commit counts.
+- [Open: hiring-agent#255](https://github.com/interviewstreet/hiring-agent/pull/255): Fixed nested GitHub profile CSV export.
+- [Open: hiring-agent#256](https://github.com/interviewstreet/hiring-agent/pull/256): Added Unicode date-range parsing coverage.
+- [Open: hiring-agent#257](https://github.com/interviewstreet/hiring-agent/pull/257): Preserved project URL fallbacks.
+- [Open: cheroot#830](https://github.com/cherrypy/cheroot/pull/830): Fixed HTTP server error logging in an unservicable-connection path with regression coverage.
+- [Open: htmldate#192](https://github.com/adbar/htmldate/pull/192): Cleaned documentation wording and typo issues.
+- [Open: rtk#2601](https://github.com/rtk-ai/rtk/pull/2601): Added pytest parser handling for error summaries with regression coverage.
+- [Closed: py-vetlog-buddy#181](https://github.com/josdem/py-vetlog-buddy/pull/181): Moved inactive/deceased pet filtering into pending deworming selection with focused service coverage.
 
 ## Tech
 
