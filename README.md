@@ -2,10 +2,10 @@
   <img src="assets/profile-banner.png" alt="Andrew Dang developer workspace banner" width="100%" />
 </p>
 
-<h1 align="center">Andrew Dang</h1>
+<h1 align="center">Andrew</h1>
 
 <p align="center">
-  Computer science student at the University of Texas at Arlington building full-stack products, developer tools, automation-heavy systems, and practical open-source fixes.
+  Computer science student building full-stack products, developer tools, automation-heavy systems, and practical open-source fixes.
 </p>
 
 <p align="center">
