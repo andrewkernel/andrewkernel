@@ -17,7 +17,7 @@
 
 <p align="center">
   <img alt="Open source merged PRs" src="https://img.shields.io/badge/open%20source-3%20merged%20PRs-2ea44f?style=flat-square" />
-  <img alt="Open source mergeable PRs" src="https://img.shields.io/badge/open%20source-11%20open%20PRs-0969da?style=flat-square" />
+  <img alt="Open source mergeable PRs" src="https://img.shields.io/badge/open%20source-12%20open%20PRs-0969da?style=flat-square" />
   <img alt="Focus" src="https://img.shields.io/badge/focus-full--stack%20%7C%20automation%20%7C%20developer%20tools-24292f?style=flat-square" />
 </p>
 
@@ -27,7 +27,7 @@
 | --- | --- |
 | Full-stack products | Next.js, React, TypeScript, Python, Flask, FastAPI, PostgreSQL, Supabase |
 | Developer tools | Electron desktop tooling, PowerShell automation, diagnostics, CI, parser and export fixes |
-| Open source | 3 merged third-party PRs, 11 open third-party PRs, regression tests and CI-focused fixes |
+| Open source | 3 merged third-party PRs, 12 open third-party PRs, regression tests and CI-focused fixes |
 | Systems mindset | Network diagnostics, DNS/TCP inspection, iPerf3 testing, risk-scored remediation plans |
 
 ## Current Focus
@@ -48,7 +48,7 @@
 Open-source pull request record:
 
 - 3 merged third-party PRs.
-- 11 open third-party PRs.
+- 12 open third-party PRs.
 - 1 closed third-party PR with local verification.
 
 Recent PRs:
@@ -61,6 +61,7 @@ Recent PRs:
 - [Open: hiring-agent#257](https://github.com/interviewstreet/hiring-agent/pull/257): Preserved project URL fallbacks.
 - [Open: cheroot#830](https://github.com/cherrypy/cheroot/pull/830): Fixed HTTP server error logging in an unservicable-connection path with regression coverage.
 - [Open: cheroot#831](https://github.com/cherrypy/cheroot/pull/831): Preserved proxy and strict-mode request flags when serving 503 responses, with regression coverage.
+- [Open: cheroot#832](https://github.com/cherrypy/cheroot/pull/832): Rejected NUL bytes in HTTP request lines with a focused malformed-request regression test.
 - [Open: future-agi#1099](https://github.com/future-agi/future-agi/pull/1099): Refreshed source, destination, and all-folder caches after prompt moves, with regression coverage.
 - [Open: htmldate#192](https://github.com/adbar/htmldate/pull/192): Cleaned documentation wording and typo issues.
 - [Open: rtk#2601](https://github.com/rtk-ai/rtk/pull/2601): Added pytest parser handling for error summaries with regression coverage.
