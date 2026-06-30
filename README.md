@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[assets/profile-banner.png](https://www.facer.io/collection/gengar-cd1c2df13b)" alt="Andrew Dang developer workspace banner" width="100%" />
+  <img src="assets/gengar-banner.jpg" alt="Gengar banner" width="100%" />
 </p>
 
 <h1 align="center">Andrew</h1>
