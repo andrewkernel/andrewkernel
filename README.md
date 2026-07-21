@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/13d72601-54bc-4882-b70d-37fde82204de" /><p align="center">
 
 ```
 +--------------------------------------------------------------+
@@ -45,7 +45,7 @@ I run multi-agent testing workflows across **TypeScript, React, Next.js, Electro
 
 ### Open-source contributions
 - **3 merged third-party pull requests** spanning QA automation, CI validation, AI-provider configuration, and parser reliability.
-- Active contributions to projects including **Cheroot**, **Future AGI**, **RTK**, **hiring-agent**, and **judges-action**, with targeted regression tests and defensive bug fixes.
+- Active contributions to projects including **Rust**, **Future AGI**, **RTK**, **hiring-agent**, and **judges-action**, with targeted regression tests and defensive bug fixes.
 - Representative merged work: [BeforeYouSign#1](https://github.com/ChimdumebiNebolisa/BeforeYouSign/pull/1), [Termstory#164](https://github.com/bitflicker64/Termstory/pull/164), and [Termstory#166](https://github.com/bitflicker64/Termstory/pull/166).
 
 ## Stack
