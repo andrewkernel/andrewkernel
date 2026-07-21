@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://www.andrewanhdang.dev/">Portfolio</a> |
-  <a href="https://www.linkedin.com/in/andrewdanguta/">LinkedIn</a> |
   <a href="https://github.com/andrewkernel/peak">Peak</a> |
   <a href="https://github.com/andrewkernel/network-optimizations">Network Optimization Agent</a>
 </p>
