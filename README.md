@@ -1,15 +1,4 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/13d72601-54bc-4882-b70d-37fde82204de" /><p align="center">
-
-```
-+--------------------------------------------------------------+
-| ANDREW DANG                                                  |
-| agentic QA | Windows systems | developer tools              |
-+--------------------------------------------------------------+
-```
-
 </p>
-
-<h1 align="center">Building systems that make software more reliable.</h1>
 
 <p align="center">
   Computer science student engineering agentic QA workflows, low-latency Windows software, and practical AI-enabled tools.
