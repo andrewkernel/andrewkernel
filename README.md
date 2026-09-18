@@ -1,7 +1,7 @@
 </p>
 
 <p align="center">
-  Computer science student engineering agentic QA workflows, low-latency Windows software, and practical AI-enabled tools.
+  Current AI Engineer Intern and Computer science student engineering agentic QA workflows, low-latency Windows software, and practical AI-enabled tools.
 </p>
 
 <p align="center">
