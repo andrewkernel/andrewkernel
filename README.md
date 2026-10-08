@@ -28,7 +28,7 @@
 I'm a computer science student who likes working across the stack: from GPU capture and audio pipelines to AI agents, deployment automation, and production QA. I enjoy tracing a failure to its root cause, writing the fix, and proving it with a test.
 
 - **Currently:** AI Engineer Intern (Fall Co-op) at **NTX Embedded** and Software QA Engineer at **Avallon**.
-- **Studying:** B.S. in Computer Science, minor in Business at **UT Arlington**. Expected graduation: **May 2028** · **3.84 GPA**.
+- **Studying:** B.S. in Computer Science, minor in Business. Expected graduation: **May 2028** · **3.84 GPA**.
 - **Building:** Windows recording tools, visual AI workflows, and agents that diagnose and repair software regressions.
 
 ### 🎮 Things I've shipped
