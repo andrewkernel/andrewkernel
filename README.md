@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Andrew Dang 👋</h1>
 
 <p align="center">
-  <strong>AI Engineer Intern @ NTX Embedded · Computer Science @ UT Arlington</strong><br />
+  <strong>AI Engineer Intern · Computer Science Junior</strong><br />
   AI workflows, native Windows software, and the tests that keep releases dependable.
 </p>
 
