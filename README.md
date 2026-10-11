@@ -2,7 +2,7 @@
   <img src="./assets/gengar-banner.jpg" alt="Gengar peeking out of a dark purple background" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm Andrew Dang 👋</h1>
+<h1 align="center">Hey, I'm Andrew 👋</h1>
 
 <p align="center">
   <strong>AI Engineer Intern · Computer Science Junior</strong><br />
@@ -43,22 +43,22 @@ Also exploring **[visual AI workflows](https://github.com/andrewkernel/chat-to-r
 
 ### 🛠️ Where I've worked
 
-**NTX Embedded · AI Engineer Intern (Fall Co-op)**<br />
-<sub>August 2026–present · Carrollton, TX</sub>
+**AI Engineer Intern (Fall Co-op)**<br />
+<sub>August 2026–present</sub>
 
 - Use AI across development, testing, debugging, and documentation to improve workflow efficiency by approximately **30%**.
 - Standardized **115+ API endpoints** and **41 database migrations** with CI/CD, validation, rollback, and backups.
 - Work with Windows Server, GitHub Actions, PowerShell, PostgreSQL, and access controls for production applications.
 
-**Visionet Systems · Software Engineer Intern**<br />
-<sub>June–August 2026 · Cranbury, NJ</sub>
+**Software Engineer Intern**<br />
+<sub>June–August 2026</sub>
 
 - Built AI workflow software for **10 enterprise use cases**, connecting requests, planning, execution, logging, and visualization.
 - Evaluated **1,000+ workflow logs** using a **90% confidence threshold** for recommendations and escalation.
 - Developed full-stack features with Angular, Spring Boot, TypeScript, Java, PostgreSQL, and React Flow.
 
-**Avallon · Software QA Engineer**<br />
-<sub>May 2026–present · Remote</sub>
+**Software QA Engineer**<br />
+<sub>May–September 2026</sub>
 
 - Support releases for **5,000+ members** through functional, regression, integration, performance, and end-to-end testing.
 - Turn failures into reproducible test cases, logs, screenshots, and actionable Jira reports.
