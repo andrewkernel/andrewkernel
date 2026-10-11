@@ -93,8 +93,6 @@ I contribute fixes backed by regression tests, with a focus on correctness, diag
 ### 🎓 Beyond the code
 
 - **AWS Campus Student Builder** · **ACM Project Manager** · **Research Interest Group Co-Leader**
-- Dean's List · Maverick Academic Scholarship · Microsoft Cybersecurity Scholarship
-
 ---
 
 <p align="center">
